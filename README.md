@@ -2,8 +2,7 @@
 ## Introduction
 Task:<br>
 - Create an application that could register a new user;<br>
-- Perform email confirmation (via a one time password / code or via a link);
-<br>
+- Perform email confirmation (via a one time password / code or via a link);<br>
 - Output on the screen whether a user confirmed their email or did not confirm it yet.
 ## Techologies
 Java 8 IntelijIDEA
